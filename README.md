@@ -9,7 +9,7 @@
 - 5+ Years of professional development experience
 - Other Git Profiles :<a href="https://github.com/kartiklog">Github</a> ,<a href="https://https://gitlab.com/kartklog">GitLab</a> 
 
-## <p align="center">Tech Stack:</p>
+## <p align="center">Tech Stack</p>
 
 <p align="center">
  <code><img height="24" src="assets/solidity.png"></code>
