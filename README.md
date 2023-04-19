@@ -6,7 +6,7 @@
 - Ardent Reseacher of latest in DeFi.
 - Likes System Design and Solution Architecting
 - Bug Bounty Hunter at code4arena.
-
+- 5+ Years of professional development experience
 
 ## <p align="center">Tech Stack:</p>
 
@@ -15,6 +15,7 @@
  <code><img height="24" src="assets/ts.jpg"></code>
  <code><img height="24" src="assets/Docker.png"></code>
  <code><img height="24" src="assets/ethereum.jpg"></code>
+ <code><img height="24" src="assets/aws.png"></code>
  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
