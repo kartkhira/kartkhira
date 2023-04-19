@@ -7,7 +7,7 @@
 - Likes System Design and Solution Architecting
 - Bug Bounty Hunter at code4arena.
 - 5+ Years of professional development experience
-- Other Git Profiles : https://github.com/kartiklog, https://gitlab.com/kartklog
+- Other Git Profiles :<a href="https://github.com/kartiklog">Github</a> ,<a href="https://https://gitlab.com/kartklog">GitLab</a> 
 
 ## <p align="center">Tech Stack:</p>
 
