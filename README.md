@@ -23,7 +23,7 @@
 </p>
 
 
-# <h3 align="center">Hit me up !!</h3>
+# <p align="center">Hit me up !!</p>
 
 <p align="center">
 <a href="https://github.com/kartkhira">
