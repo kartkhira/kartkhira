@@ -2,7 +2,7 @@
 
 ## <p align="center">About me</p>
 
-- Full Stack web3 Dev with an entrepreneurial mindset.
+- Full Stack Web3 Dev with an entrepreneurial mindset.
 - Ardent Reseacher of latest in DeFi.
 - Likes System Design and Solution Architecting
 - Bug Bounty Hunter at code4arena.
