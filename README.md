@@ -1,6 +1,6 @@
 # <p align="center"><samp> 🤖 Hi, I'm Kartik Hira </samp></p>
 
-## <p align="center">About me</p>
+# <h2 align="center">About me</h2>
 
 - Full Stack Web3 Dev with an entrepreneurial mindset.
 - Ardent Reseacher of latest in DeFi.
@@ -9,7 +9,7 @@
 - 5+ Years of professional development experience
 - **Other Git Profiles** :<a href="https://github.com/kartiklog">Github</a> ,<a href="https://gitlab.com/kartklog">GitLab</a> 
 
-## <p align="center">Tech Stack</p>
+# <h2 align="center">Tech Stack</h2>
 
 <p align="center">
  <code><img height="24" src="assets/solidity.png"></code>
