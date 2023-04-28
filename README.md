@@ -23,19 +23,19 @@
 </p>
 
 
-# <h2 align="center">Hit Me Up !!</h2>
+# <h2 align="center">Hit Me Up!!</h2>
 
 <p align="center">
 <a href="https://github.com/kartkhira">
-  <img align="center" alt="Kartik Hira| GitHub" width="45px" src="assets\github.png" />
+  <img align="center" alt="Kartik Hira| GitHub" height="30" src="assets\github.png" />
 </a>
 <a href="https://twitter.com/kartkhira">
-  <img align="center" alt="Kartik Hira| Twitter" width="45px" src="assets\twitter.png" />
+  <img align="center" alt="Kartik Hira| Twitter" height="30" src="assets\twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/">
-  <img align="center" alt="Kartik Hira| LinkedIn" width="45px" src="assets\linkedin.png" />
+  <img align="center" alt="Kartik Hira| LinkedIn" height="30" src="assets\linkedin.png" />
 </a>
 <a href="https://www.medium.com/@kartikhira">
-  <img align="center" alt="Kartik Hira| Medium" width="45px" src="assets\medium.png" />
+  <img align="center" alt="Kartik Hira| Medium"height="30" src="assets\medium.png" />
 </a>
 </p>
