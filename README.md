@@ -6,8 +6,8 @@
 - Ardent Reseacher of latest in DeFi.
 - Likes System Design and Solution Architecting
 - Bug Bounty Hunter at code4arena.
-- 5+ Years of professional development experience
-- **Other Git Profiles** :<a href="https://github.com/kartiklog">Github</a> ,<a href="https://gitlab.com/kartklog">GitLab</a> 
+- 6+ Years of professional development experience
+- **Other Git Profiles** :<a href="https://github.com/kartiklog">NFTFN</a> ,<a href="https://github.com/infestedshroom">Bloom</a> 
 
 # <h2 align="center">Tech Stack</h2>
 
