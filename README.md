@@ -7,7 +7,7 @@
 - Likes System Design and Solution Architecting
 - Bug Bounty Hunter at code4arena.
 - 6+ Years of professional development experience
-- **Other Git Profiles** :<a href="https://github.com/kartiklog">NFTFN</a> ,<a href="https://github.com/infestedshroom">Bloom</a> 
+- **Other Git Profiles** :<a href="https://github.com/infestedshroom">Bloom</a> 
 
 # <h2 align="center">Tech Stack</h2>
 
