@@ -34,7 +34,4 @@
 <a href="https://www.linkedin.com/in/">
   <img align="center" alt="Kartik Hira| LinkedIn" height="30" src="assets\linkedin.png" />
 </a>
-<a href="https://www.medium.com/@kartikhira">
-  <img align="center" alt="Kartik Hira| Medium"height="30" src="assets\medium.png" />
-</a>
 </p>
