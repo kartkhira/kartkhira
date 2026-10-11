@@ -2,11 +2,11 @@
 
 # <h2 align="center">About me</h2>
 
-- Full Stack Web3 Dev with an entrepreneurial mindset.
-- Ardent Reseacher of latest in DeFi.
+- Full Stack developer with an entrepreneurial mindset.
+- Ardent Reseacher of latest in Tech.
 - Likes System Design, Solution Architecting and Risk Analysis. 
 - Bug Bounty Hunter at code4arena.
-- 6+ Years of professional development experience
+- 8+ Years of professional development experience
 
 # <h2 align="center">Tech Stack</h2>
 
